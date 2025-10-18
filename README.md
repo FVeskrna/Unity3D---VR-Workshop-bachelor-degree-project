@@ -47,6 +47,9 @@ Overall presentation:
 https://www.youtube.com/watch?v=mCSK3DLpQEs
 
 Blueprint system: https://www.youtube.com/watch?v=9GYik95y-_8
+
 Table saw and interactables: https://www.youtube.com/watch?v=3f_6qNRiwsQ
+
 Material assembly: https://www.youtube.com/watch?v=LREtUKK41Nk
+
 Guided completion: https://www.youtube.com/watch?v=uxSaMIw7nYI
