@@ -39,6 +39,8 @@ Core Technologies: XR Interaction Toolkit, Oculus SDK, ProBuilder, ProGrids, Ezy
 
 Key Components: XR Rig, Offset Grab System, Object Spawner, Blueprint Assembly System, Interactive Tools
 
+![obrázky](https://github.com/user-attachments/assets/55fba668-bac8-4e17-933c-1b3abea25165)
+
 
 https://www.vut.cz/en/students/final-thesis/detail/132854
 
